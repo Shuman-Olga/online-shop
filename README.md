@@ -1,3 +1,3 @@
 # online-shop
 Онлай магазин
-html+css
+HTML+SASS
